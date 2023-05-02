@@ -2,7 +2,7 @@ hello there
 
 my name is Vadim, currently (april 2023) 19 y.o. studying in Higher School of Economics, Faculty of Computer Science, Software Engineer, 1st year
 
-technology stack: Python (sqlite3, cv2, pandas,), MATLAB, SQL, C# (ASP.NET Core), C++, Git
+technology stack: Python (sqlite3, cv2, pandas), MATLAB, SQL, C# (ASP.NET Core), C++, Git
 
 other knowledge: higher mathematics, OOP, algorithmic structures, algorithms, databases
 
