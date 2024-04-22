@@ -63,7 +63,6 @@
   - Have experience in teaching (Unity, Unreal Engine for kids right now; C#)<br>
   - I have experience in communication and teamwork<br>
   - You can contact me in Telegram (@X_Fandom_X) or by mail - vnvolovik@edu.hse.ru<br>
-  - Felt confident in my code only now, so finally creating GitHub :)
 </p>
 
 <div align=center>
