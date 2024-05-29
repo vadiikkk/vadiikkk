@@ -39,7 +39,7 @@
 ###
 
 <h4 align="left">
-  Have also completed or am taking the following Computer Science courses:
+  Have also completed the following Computer Science courses:
 </h4>
 
 ###
