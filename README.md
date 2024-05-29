@@ -47,9 +47,9 @@
 <p align="left">
   - Mathematical analysis, Algebra, Discrete mathematics, Probability theory and Mathematical statistics<br>
   - Data analysis in Python<br>
-  - Architecture of computing systems (RISC-V programming) and Operating systems🖥<br>
+  - Architecture of computing systems (RISC-V programming) and Operating systems<br>
   - Algorithms and data structures<br>
-  - Software design⌨<br>
+  - Software design<br>
   - Development of cloud and mobile applications on the Google Android platform
 </p>
 
