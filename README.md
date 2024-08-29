@@ -63,14 +63,9 @@
   - Studying in HSE FCS SE, 3rd year (Graduation year - 2026)<br>
   - I am currently looking for a job in Backend-Development or DevOps<br>
   - Have experience in teaching (Unity, Unreal Engine for kids right now; C#)<br>
-  - I have experience in communication and teamwork<br>
   - You can contact me in Telegram (@X_Fandom_X) or by mail - vnvolovik@edu.hse.ru<br>
 </p>
 
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vadiikkk&layout=compact&theme=dark" height="110"alt="languages graph"  />
 </div>
-
-<!---TODO: Добавить стату, когда оная не будет пустой :)
-[![trophy](https://github-profile-trophy.vercel.app/?username=vadiikkk)](https://github.com/ryo-ma/github-profile-trophy)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vadiikkk)](https://github.com/anuraghazra/github-readme-stats)-->
