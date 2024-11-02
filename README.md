@@ -61,8 +61,6 @@
 
 <p align="left">
   - Studying in HSE FCS SE, 3rd year (Graduation year - 2026)<br>
-  - I am currently looking for a job in Backend-Development or DevOps<br>
-  - Have experience in teaching (Unity, Unreal Engine for kids right now; C#)<br>
   - You can contact me in Telegram (@X_Fandom_X) or by mail - vnvolovik@edu.hse.ru<br>
 </p>
 
